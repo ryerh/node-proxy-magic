@@ -1,0 +1,19 @@
+{
+  "name": "node-proxy-magic",
+  "version": "0.1.0",
+  "description": "Node proxy demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryerh/node-proxy-magic.git"
+  },
+  "author": "ryerh@live.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ryerh/node-proxy-magic/issues"
+  },
+  "homepage": "https://github.com/ryerh/node-proxy-magic#readme"
+}
